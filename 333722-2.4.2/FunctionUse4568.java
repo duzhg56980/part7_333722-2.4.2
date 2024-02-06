@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.ser.impl.ObjectIdWriter;
+public class FunctionUse4568 {
+public void funcUse() {
+ObjectIdWriter objectidwriter = new ObjectIdWriter();
+}
+}
